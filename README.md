@@ -1,5 +1,5 @@
 
-这是cluster4spring 框架的扩展。
+这是cluster4spring 框架的扩展。目前版本：1.0.2
 源项目地址：http://www.theserverside.com/discussions/thread/45766.html
 
 本人在他的基础上，修复了一些bug。
